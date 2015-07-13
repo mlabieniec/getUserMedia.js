@@ -1,0 +1,6 @@
+{
+  "name": "getUserMedia.js",
+  "version": "0.3.0",
+  "main": "./dist/getUserMedia.min.js",
+  "ignore": []
+}
